@@ -1,0 +1,16 @@
+C:\Users\Hernan\Desktop\Programacion 2 ejercicios\Proyecto_15.09\Proyecto_15.09\bin\x86\Debug\Proyecto_15.09.exe.config
+C:\Users\Hernan\Desktop\Programacion 2 ejercicios\Proyecto_15.09\Proyecto_15.09\bin\x86\Debug\Muebleria.sdf
+C:\Users\Hernan\Desktop\Programacion 2 ejercicios\Proyecto_15.09\Proyecto_15.09\bin\x86\Debug\Proyecto_15.09.exe
+C:\Users\Hernan\Desktop\Programacion 2 ejercicios\Proyecto_15.09\Proyecto_15.09\bin\x86\Debug\Proyecto_15.09.pdb
+C:\Users\Hernan\Desktop\Programacion 2 ejercicios\Proyecto_15.09\Proyecto_15.09\bin\x86\Debug\Proyecto_15.09.xml
+C:\Users\Hernan\Desktop\Programacion 2 ejercicios\Proyecto_15.09\Proyecto_15.09\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Hernan\Desktop\Programacion 2 ejercicios\Proyecto_15.09\Proyecto_15.09\obj\x86\Debug\Proyecto_15._09.Menu.resources
+C:\Users\Hernan\Desktop\Programacion 2 ejercicios\Proyecto_15.09\Proyecto_15.09\obj\x86\Debug\Proyecto_15._09.Resources.resources
+C:\Users\Hernan\Desktop\Programacion 2 ejercicios\Proyecto_15.09\Proyecto_15.09\obj\x86\Debug\Proyecto_15.09.vbproj.GenerateResource.Cache
+C:\Users\Hernan\Desktop\Programacion 2 ejercicios\Proyecto_15.09\Proyecto_15.09\obj\x86\Debug\Proyecto_15.09.exe
+C:\Users\Hernan\Desktop\Programacion 2 ejercicios\Proyecto_15.09\Proyecto_15.09\obj\x86\Debug\Proyecto_15.09.xml
+C:\Users\Hernan\Desktop\Programacion 2 ejercicios\Proyecto_15.09\Proyecto_15.09\obj\x86\Debug\Proyecto_15.09.pdb
+C:\Users\Hernan\Desktop\Programacion 2 ejercicios\Proyecto_15.09\Proyecto_15.09\obj\x86\Debug\Proyecto_15._09.Articulos.resources
+C:\Users\Hernan\Desktop\Programacion 2 ejercicios\Proyecto_15.09\Proyecto_15.09\obj\x86\Debug\Proyecto_15._09.Agregar_Articulo.resources
+C:\Users\Hernan\Desktop\Programacion 2 ejercicios\Proyecto_15.09\Proyecto_15.09\obj\x86\Debug\Proyecto_15._09.Clientes.resources
+C:\Users\Hernan\Desktop\Programacion 2 ejercicios\Proyecto_15.09\Proyecto_15.09\obj\x86\Debug\Proyecto_15._09.Agregar_Clientes.resources
